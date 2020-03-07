@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://godweiyang.com/2020/03/08/article-title/</loc>
+    <loc>https://godweiyang.com/friends/index.html</loc>
     
-    <lastmod>2020-03-07T17:03:34.325Z</lastmod>
+    <lastmod>2020-03-07T18:32:05.227Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://godweiyang.com/contact/index.html</loc>
+    
+    <lastmod>2020-03-07T18:25:57.705Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://godweiyang.com/contact/bbbbindex.html</loc>
+    
+    <lastmod>2020-03-07T18:25:17.922Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://godweiyang.com/2020/03/08/bo-ke-da-hao/</loc>
+    
+    <lastmod>2020-03-07T18:20:48.234Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://godweiyang.com/about/index.html</loc>
+    
+    <lastmod>2020-03-07T17:50:49.603Z</lastmod>
     
   </url>
   
@@ -12,20 +40,6 @@
     <loc>https://godweiyang.com/tags/index.html</loc>
     
     <lastmod>2020-03-07T16:33:25.266Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://godweiyang.com/friends/index.html</loc>
-    
-    <lastmod>2020-03-07T16:33:25.264Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://godweiyang.com/contact/index.html</loc>
-    
-    <lastmod>2020-03-07T16:33:25.262Z</lastmod>
     
   </url>
   
@@ -44,16 +58,9 @@
   </url>
   
   <url>
-    <loc>https://godweiyang.com/about/index.html</loc>
+    <loc>https://godweiyang.com/about/bbbbbindex.html</loc>
     
     <lastmod>2020-03-07T16:33:25.256Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://godweiyang.com/2018/01/22/2017-conclusion/</loc>
-    
-    <lastmod>2020-03-07T16:33:25.226Z</lastmod>
     
   </url>
   
