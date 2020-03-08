@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Makedown 语语法测试</title>
+      <link href="/2020/03/08/makedown-yu-yu-fa-ce-shi/"/>
+      <url>/2020/03/08/makedown-yu-yu-fa-ce-shi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Headings-etc"><a href="#Headings-etc" class="headerlink" title="Headings (# ## ### etc.)"></a>Headings (# ## ### etc.)</h1><h1 id="Alt-Heading-1-Headings-need-4-or"><a href="#Alt-Heading-1-Headings-need-4-or" class="headerlink" title="Alt Heading 1 (Headings need 4 = or -)"></a>Alt Heading 1 (Headings need 4 = or -)</h1><h2 id="Alt-Heading-2-Headings-need-4-or"><a href="#Alt-Heading-2-Headings-need-4-or" class="headerlink" title="Alt Heading 2 (Headings need 4 = or -)"></a>Alt Heading 2 (Headings need 4 = or -)</h2><p>Normal text <strong>bold</strong> then <em>italic</em>.<br>Escape * ` \&lt; _ # \\ &amp; more.</p><ol><li>Order list</li></ol><ul><li>Unorder list ( - or + )</li></ul><p>code: <code>a === a</code></p><blockquote><p>blockquote</p></blockquote><p>URL: <a href="https://edditoria.blogspot.com" target="_blank" rel="noopener">Edditoria</a> | image: <img src="https://avatars0.githubusercontent.com/u/2234073?v=3&s=40" alt="2"></p><!-- please comment --><h1 id="Enjoy"><a href="#Enjoy" class="headerlink" title="Enjoy! :)"></a>Enjoy! :)</h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>奇怪的博客搭好啦</title>
       <link href="/2020/03/08/bo-ke-da-hao/"/>
       <url>/2020/03/08/bo-ke-da-hao/</url>

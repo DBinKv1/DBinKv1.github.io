@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>DBin_K 的博客</title>
   
-  <subtitle>给时光以生命，给岁月以文明。</subtitle>
+  <subtitle>给时光以生命 给岁月以文明</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-03-07T18:20:48.234Z</updated>
+  <updated>2020-03-08T08:13:48.713Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Makedown 语语法测试</title>
+    <link href="https://godweiyang.com/2020/03/08/makedown-yu-yu-fa-ce-shi/"/>
+    <id>https://godweiyang.com/2020/03/08/makedown-yu-yu-fa-ce-shi/</id>
+    <published>2020-03-08T08:12:43.000Z</published>
+    <updated>2020-03-08T08:13:48.713Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Headings-etc&quot;&gt;&lt;a href=&quot;#Headings-etc&quot; class=&quot;headerlink&quot; title=&quot;Headings (# ## ### etc.)&quot;&gt;&lt;/a&gt;Headings (# ## ### etc.)&lt;/h1&gt;&lt;h1
+        
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://godweiyang.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>奇怪的博客搭好啦</title>
