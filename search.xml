@@ -14,7 +14,7 @@
       
         <tags>
             
-            <tag> Android </tag>
+            <tag> -Android </tag>
             
         </tags>
       
@@ -49,6 +49,12 @@
         <content type="html"><![CDATA[<h3 id="Hello"><a href="#Hello" class="headerlink" title="Hello"></a>Hello</h3><h2 id="world"><a href="#world" class="headerlink" title="world"></a>world</h2><p><img src="https://i.loli.net/2020/03/08/XiIqgTBKuZHJRpa.png" alt="奇怪的知识增加了.jpg"></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
       
     </entry>
     
